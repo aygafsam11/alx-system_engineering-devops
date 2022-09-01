@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod -R ugo+x .
+=======
+chmod -R ugo+x
+chmod -R +X .
+>>>>>>> Task 11. Directory
